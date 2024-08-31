@@ -1,7 +1,7 @@
 import steramlit as st
 
 def main():
-    st.title("Hello World")
+    st.title("Dashboard")
 
 if __name__ == '__main__':
     main()
